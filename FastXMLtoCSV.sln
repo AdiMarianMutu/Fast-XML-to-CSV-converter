@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FastXMLtoCSV", "FastXMLtoCSV.csproj", "{9552F618-562D-482B-91BA-2CF30EB717B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9552F618-562D-482B-91BA-2CF30EB717B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9552F618-562D-482B-91BA-2CF30EB717B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9552F618-562D-482B-91BA-2CF30EB717B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9552F618-562D-482B-91BA-2CF30EB717B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D7A706CE-352D-4668-842B-54D2EFB82707}
+	EndGlobalSection
+EndGlobal
